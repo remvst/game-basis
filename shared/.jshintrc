@@ -1,0 +1,8 @@
+{
+  "strict": true,
+  "undef": true,
+  "unused": true,
+  "node": true,
+  "quotmark": "single",
+  "esversion": 6
+}

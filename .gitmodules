@@ -1,0 +1,3 @@
+[submodule "animate.js"]
+	path = animate.js
+	url = https://github.com/remvst/animate.js

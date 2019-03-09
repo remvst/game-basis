@@ -1,0 +1,12 @@
+{
+    "strict": "global",
+    "unused": true,
+    "esversion": 6,
+    "node": true,
+    "quotmark": "single",
+    "globals": {
+        "window": true,
+        "Font": true,
+        "pegasus": true
+    }
+}
